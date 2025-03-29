@@ -1,0 +1,99 @@
+
+body {
+    background-color:white;
+    margin:0;
+    font-family: Poppins;
+}
+
+.desccontainer{
+    text-align: center;
+    
+}
+
+.formhead {
+    display: inline-block;
+    font-weight: bolder;
+    font-size: 4.5vw;
+    margin-left: auto;
+    margin-right: auto;
+    padding-top: 1em;
+    text-align: left;
+}
+
+.formdescription {
+    color:  black;
+    display: inline-block;
+    font-weight: lighter;
+    font-size: 2vw;
+    text-align: justify;
+    margin-top: 1em;
+    padding-left: 25%;
+    padding-right: 25%;
+}
+
+.formtitle {
+    display: block;
+    font-weight: bolder;
+    font-size: 3.5vw;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 3em;
+    text-align: center;
+}
+
+.formcontainer {
+    margin-left: 200px;
+    margin-right: 200px;
+    text-align: center;
+}
+
+form {
+    
+    display: inline-block;
+    text-align: left;
+}
+
+.hr1{
+    background-color:black;
+    height: 6%;
+    width: 100%;
+    margin: 0;
+    border: none;
+
+}
+.hr2{
+    background-color:#201c1c;
+    height: 100px;
+    min-height: 1em;
+    margin: 0;
+    border: none;
+}
+
+.navbar {
+    list-style-type: none;
+    padding: 0;
+    overflow: hidden;
+    position: absolute;
+    top: 0%;
+
+}
+
+.navcontent {
+    float: left;
+}
+
+.navcontent a{
+    display: block;
+    color: white;
+    text-decoration: none;
+    font-size: 1em;
+    padding-left: 4vw;
+}
+
+
+.navcontent a:hover{
+    color: antiquewhite;
+    font-size: 1.1em;
+}
+
+
